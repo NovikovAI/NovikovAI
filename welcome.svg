@@ -26,6 +26,16 @@
         
                   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
                 }
+                
+                .flex-dir-vertical {
+                	display: flex;
+                	flex-direction: column;
+                    align-items: center;
+                }
+                
+                .no-margin {
+                	margin: 0;
+                }
 
                 .hi {
                   animation: hi 1.5s linear -0.5s infinite;
@@ -40,8 +50,10 @@
                 }
             </style>
             <div class="container">
-                <h1>Hi there <div class="hi">👋</div></h1>
-                <h2>And welcome to my GitHub Profile!</h2>
+            	<div class="flex-dir-vertical">
+                	<h1 class="no-margin">Hi there <div class="hi">👋</div></h1>
+                	<h2 class="no-margin">And welcome to my GitHub Profile!</h2>
+            	</div>
             </div>
         </div>
     </foreignObject>
