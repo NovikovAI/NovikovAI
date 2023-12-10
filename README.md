@@ -1,8 +1,10 @@
-<h1>SOMEBODY</h1>
-
-### Hi there 👋
+<h1 align="center">👋 Hi there 👋</h1>
+<h2 align="center">And welcome to my GitHub Profile!</h2>
 
 <!--
+### Hi there 👋
+
+
 **NovikovAI/NovikovAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
