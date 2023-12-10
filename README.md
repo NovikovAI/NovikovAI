@@ -1,5 +1,12 @@
-<h1 align="center">👋 Hi there 👋</h1>
-<h2 align="center">And welcome to my GitHub Profile!</h2>
+<style>
+    .no-github-style {
+        margin-bottom: 0 !important;
+        padding-bottom: 0 !important;
+        border-bottom: 0 !important;
+    }
+</style>
+<h1 align="center" class="no-github-style">👋 Hi there 👋</h1>
+<h2 align="center" class="no-github-style">And welcome to my GitHub Profile!</h2>
 
 <!--
 ### Hi there 👋
